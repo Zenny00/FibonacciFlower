@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Screen margins -->
+    <dimen name="activity_horizontal">16dp</dimen>
+    <dimen name="activity_vertical">16dp</dimen>
+    <dimen name="label_left_margin">50dp</dimen>
+</resources>
